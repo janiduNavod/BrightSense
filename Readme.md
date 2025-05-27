@@ -39,4 +39,8 @@ BrightSense uses sensors and smart control algorithms to:
 
 ## 🧠 PID Controller
 
-The PID controller is used to regulate bulb brightness:
+The PID controller is used to regulate bulb brightness
+
+
+
+![Doc2](https://github.com/user-attachments/assets/9e41f98d-4d9e-4277-bddc-deb71a15fd22)
